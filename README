@@ -1,0 +1,4 @@
+sudo apt-get install vim
+sudo apt-get install vim-nox
+
+using rbenv, rails 1.9.3 so far
