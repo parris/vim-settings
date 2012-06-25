@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/parris/projects/bandpage/public/javascripts/tests'
 let g:netrw_dirhist_2='/home/parris/projects/hops/node_modules'
 let g:netrw_dirhist_3='/home/parris/.rbenv'
+let g:netrw_dirhist_4='/home/parris/.ssh'
