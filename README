@@ -2,3 +2,5 @@ sudo apt-get install vim
 sudo apt-get install vim-nox
 
 using rbenv, ruby 1.9.3 so far
+
+symlink files to homefolder
