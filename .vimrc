@@ -7,4 +7,4 @@ set autoindent
 
 au BufNewFile,BufRead *.less set filetype=less
 
-map <Leader>t :FuzzyFinderTextMate<CR>
+map <Leader>f :FufFile<CR>
